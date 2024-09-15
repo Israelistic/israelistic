@@ -1,5 +1,5 @@
 # 💫 About Me:
-🇨🇦Toronto based🇨🇦: 1. Linux & Windows Sysadmin. 2. SRE, DevOps, Cloud Operation ( AWS). 3. Backend Developer.
+🇨🇦Toronto based🇨🇦: 1. Linux & Windows Sysadmin. 2. SRE, DevOps, Platform Engineer, Cloud Operation ( AWS). 3. Backend Developer.
 
 
 ## 🌐 Socials:
